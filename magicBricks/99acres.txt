@@ -1,0 +1,45 @@
+1.Connection is made with favista database by establishConn() method
+
+2.Repeat step from 2 to 6 until flag not equal to false
+
+3.getListing() to the first tuple which satisfy the required conditions like site_id=1,posting_status !=posted,attempts<3 and posting_date<=todays date and increment attempts
+	if no tuple is found than make flag equal to false
+
+4.To that particular property_id, we find the other details regarding this property_id by calling get_details and get_project_amenities()
+
+5.call 99Acres method post
+
+5.1 open the 99 acres url in firefox from function getStarted(URL)
+
+5.2  login() to 99 Acres
+
+5.3 Selecting_package() from package list depending on login username
+
+5.4 fill up property type,bedrooms,bathrooms,floor details and transaction details by calling function property_Info()
+
+5.5 fill up location information by calling function location() 
+
+5.6 fill up area information by calling function area()
+
+5.7 fill up price information if the posting_status=duplicate,then increment or decrement price by Rs.2000 by calling function   price() 
+
+5.8 fill up the description to that property by using function description()
+
+5.9 upload_pictures() to the post
+
+5.10 click on submit button
+
+5.11 fill the additional details by calling function additional_info() and upload additional photos by calling function upload_additional_photos()
+
+5.12 click on final submit button
+
+5.13 call the get_Listing function which return listing id.
+	if(listing not equal to "not found")
+	a.call insert_posting_record() function to insert posting record to database
+	b.call updatePosting() to update posting status to "posted"
+	
+	if(error occurs during inserting posting records to database or updating posting database)
+	call WriteToFile() function and write all the posting information to the file
+5.14 close the driver 
+
+6. close database connection. 

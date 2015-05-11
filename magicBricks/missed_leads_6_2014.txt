@@ -1,0 +1,1 @@
+update posting_queue set posting_status='posted'  where uid= '12872' and property_id=? 

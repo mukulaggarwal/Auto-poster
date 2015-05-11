@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/bsh-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-codec-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-codec-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-exec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-io-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-jxpath-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/cssparser-0.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/cssparser-0.9.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/guava-14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/htmlunit-2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/htmlunit-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/htmlunit-core-js-2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/htmlunit-core-js-2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpclient-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpclient-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpcore-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpcore-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpmime-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/ini4j-0.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jcommander-1.29.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jetty-http-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jetty-io-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jetty-util-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jetty-websocket-8.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jetty-websocket-8.1.12.v20130726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jna-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jna-platform-3.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/json-20080701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/junit-dep-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/jxl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/nekohtml-1.9.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/nekohtml-1.9.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/operadriver-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/operadriver-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/phantomjsdriver-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/selenium-java-2.39.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/simmetrics_jar_v1_6_2_d07_02_07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/smtp-1.4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/testng-6.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/xercesImpl-2.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/New folder/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/downloads/jcifs-1.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mukul/Downloads/downloads/ntlm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
